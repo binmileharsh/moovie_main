@@ -1,0 +1,25 @@
+.card{
+    height: 390px;
+    width: 270px;
+    padding: 0rem;
+   
+   
+    position:relative;
+    z-index: 1;
+    background-color: silver;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;}
+ .isfav{
+    position: absolute;
+    top :10px;
+    width: 30px;
+    height: 30px;
+    z-index: 2;}
+   
+
+.photo image{
+ 
+    width: 100%;
+    
+}
+ 
